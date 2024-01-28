@@ -2,9 +2,10 @@
 # Overview
 Welcome to the Real Estate Management System project! This project is developed using ASP.NET for the frontend and Oracle SQL for the backend. 
 The purpose of this system is to provide a comprehensive solution for managing real estate properties, including property listings, user management, and transaction tracking.
-Features
 
-1- Login Page:
+# Features
+
+# Login Page:
 Role-based access control for different user types (admin, real estate agent, customer).
 
 ![1](https://github.com/RahmaCorleone/Real-Estate-System/assets/100363780/c2e20410-7fa2-42c4-aae3-5a0afa5d35f4)
